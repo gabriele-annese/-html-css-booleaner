@@ -1,0 +1,49 @@
+/* GENERAL */
+*{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/* UTILITY */
+.container {
+    margin: auto;
+}
+
+.nav__container {
+    background-color: aqua;
+    height: 150px;
+    width: 100%;
+    background-image: url(../img/pattern.png);
+    background-size: contain;
+}
+
+#logo {
+    width: 200px;
+    padding-top: 100px;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.subtitles{
+    margin-top: 5px;
+}
+
+.title3 {
+    color: grey;
+}
+
+#no-line{
+    text-decoration: none;
+}
+
+span {
+    font-size: 14px
+}
