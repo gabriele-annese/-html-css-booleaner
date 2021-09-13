@@ -27,16 +27,15 @@
     padding-left: 0;
 }
 
+
+
 h1 {
     font-size: 50px;
 }
 
-.subtitles{ 
-    margin-top: 5px;
-}
-
 .title3 {
     color: grey;
+    margin-top: 0;
 }
 
 #no-line {
