@@ -77,3 +77,30 @@ th {
 .paragraph {
     margin-top: 50px;
 }
+
+#title {
+    margin-top: 50px;
+}
+
+.title__img {
+    margin: 10px;
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+    color: #fff;
+    font-size: 140%;
+    width: 240px;
+    height: 150px;
+    text-align: center;
+}
+
+.title__img2 {
+    margin: 10px;
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+    color: #fff;
+    font-size: 140%;
+    width: 240px;
+    height: 150px;
+    bottom: 100px;
+    text-align: center;
+}
