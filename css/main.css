@@ -32,7 +32,7 @@ h1 {
     font-size: 50px;
 }
 
-.subtitles{
+.subtitles{ 
     margin-top: 5px;
 }
 
@@ -40,10 +40,18 @@ h1 {
     color: grey;
 }
 
-#no-line{
+#no-line {
     text-decoration: none;
 }
 
 span {
     font-size: 14px
+}
+
+.text {
+    margin-top: 30px;
+}
+
+.important {
+    background-color: #e9ff70;
 }
