@@ -12,7 +12,7 @@
 }
 
 .nav__container {
-    background-color: aqua;
+    background-color: #9fa0ff;
     height: 150px;
     width: 100%;
     background-image: url(../img/pattern.png);
@@ -47,10 +47,29 @@ span {
     font-size: 14px
 }
 
+h4 {
+    margin: 0;
+}
+
 .text {
     margin-top: 30px;
 }
 
 .important {
     background-color: #e9ff70;
+}
+
+table {
+    width: 100%;
+    background-color: #4cc9f0;
+    border-collapse: collapse;
+}
+
+th {
+    width: 30%;
+    background-color: #4361ee;
+}
+
+.tr__white {
+    background-color: #fff;
 }
